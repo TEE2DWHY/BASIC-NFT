@@ -30,6 +30,10 @@ This project is a simple implementation of an NFT (Non-Fungible Token) contract 
 ```bash
   npm install
    npx hardhat compile
-   4 Deploy the contract to the Goerli test network:
+```
+
+4. Deploy the contract to the Goerli test network:
+
+```bash
    npx hardhat run scripts/deploy.js --network goerli
 ```
